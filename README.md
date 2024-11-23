@@ -1,1 +1,2 @@
-# IPL-Win-Predictor-
+# IPL_WIN_PREDICTOR
+IPL Win Predictor 
